@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+mockito-file-system,com.example,App,7,0,0,0,3,0,2,0,2,0
+mockito-file-system,com.example.applications,ProductApplication,0,22,0,0,0,9,0,4,0,4
+mockito-file-system,com.example.entities,Product,80,0,0,0,23,0,11,0,11,0
+mockito-file-system,com.example.services,ProductService,138,0,6,0,28,0,10,0,7,0
